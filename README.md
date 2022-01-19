@@ -47,11 +47,11 @@ December 13, 2021
 ## Author
 
 * Larissa Sayuri Futino Castro dos Santos
-* [Amanda Audy](https://www.linkedin.com/in/amanda-audi-2b7b931b/)
+* [@amandaaudi](https://github.com/amandaaudi)
 * [@carinadourado](https://github.com/carinadourado)
-* [Ingridy Silva](https://www.linkedin.com/in/ingridyrs/)
+* [@ingridyrs](https://github.com/ingridyrs)
 * [Meyrele Torres](https://www.linkedin.com/in/meyrele/)
-* [Victor Farias](https://www.linkedin.com/in/victor-farias-131ab4129/)
+* [@victorfariassb](https://github.com/victorfariassb)
 
 ## Acknowledment
 
